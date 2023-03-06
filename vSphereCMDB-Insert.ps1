@@ -10,7 +10,7 @@
 # Configure las siguientes variables para conectarse a la base de datos SQL y vCenter
 ############################################################################################
 # vSphere server
-#$vCenterServer = "192.168.161.202"
+$vCenterServer = "192.168.1.1"
 # SQL server & database
 $SQLInstance = ".\SQLEXPRESS"
 $SQLDatabase = "vSphereCMDB"
